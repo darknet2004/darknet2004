@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Environmental Monitoring System**
 
-- 🌱 I’m currently learning **Web Development, C++**
+- 🌱 I’m currently learning **Cloud Computing, Web Development, C++**
 
-- 💬 Ask me about **C++, Blender, 3D Modelling**
+- 💬 Ask me about **C++, Cloud Computing, AWS, 3D Modelling**
 
 - 📫 How to reach me **vaibhavs1604@gmail.com**
 
